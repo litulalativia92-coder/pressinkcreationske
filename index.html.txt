@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Press Ink Creations Ke</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #111;
+            color: white;
+            text-align: center;
+        }
+        header {
+            background: black;
+            padding: 20px;
+        }
+        h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+        section {
+            padding: 40px 20px;
+        }
+        .button {
+            display: inline-block;
+            padding: 12px 20px;
+            margin: 10px;
+            background: white;
+            color: black;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+        }
+        .services {
+            background: #1a1a1a;
+        }
+        footer {
+            background: black;
+            padding: 20px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Press Ink Creations Ke</h1>
+    <p>Custom Printing • Branding • Gifts</p>
+</header>
+
+<section>
+    <h2>Clean prints that make your brand pop</h2>
+    <p>
+        We specialize in cap printing, t-shirt printing, plates,
+        mugs, stickers and business branding.
+    </p>
+
+    <a class="button" href="https://wa.me/254727962474" target="_blank">
+        WhatsApp Order
+    </a>
+
+    <a class="button" href="https://instagram.com/pressinkcreationske" target="_blank">
+        Instagram
+    </a>
+
+    <a class="button" href="https://tiktok.com/@pressinkcreationske" target="_blank">
+        TikTok
+    </a>
+
+    <p>📍 Mombasa • Kitale • Nairobi</p>
+</section>
+
+<section class="services">
+    <h2>Our Services</h2>
+    <p>✔ Cap Printing</p>
+    <p>✔ T-Shirt Printing</p>
+    <p>✔ Custom Plates</p>
+    <p>✔ Stickers & Labels</p>
+    <p>✔ Business Branding</p>
+</section>
+
+<footer>
+    © 2026 Press Ink Creations Ke  
+    <br>
+    Contact: 0727 962 474
+</footer>
+
+</body>
+</html>
